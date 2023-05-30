@@ -9,8 +9,13 @@ body {
 
   }
 
+  
+  .carousel-caption h2,
+  .carousel-caption p {
+    color: black;
+  }
 
- 
+
   
 
 
@@ -46,9 +51,9 @@ body {
   .nav-link{
     color: #ffffff;
   }
-
-  
-
+  .navbar-nav .nav-link:hover {
+    color: #83cdff;
+  }
 
 
 
@@ -57,6 +62,8 @@ body {
 /* For banner slider */
   .banner-section {
     text-align: center;
+
+
   }
   
   .carousel-caption {
@@ -150,6 +157,16 @@ body {
 
 
 
+
+
+
+
+
+
+/* Contact section styles */
+.contact {
+  padding: 100px 0;
+}
 
 
 
