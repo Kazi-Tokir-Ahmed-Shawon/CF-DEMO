@@ -1,0 +1,120 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("/images/SL-120722-54440-04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
+
+
+
+/* for topbar */
+
+.topbar {
+  background-color: #f8f9fa;
+  padding: 5px 0;
+}
+
+.topbar-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.logo img {
+  height: 61px;
+}
+
+.logos img {
+  height: 25px;
+}
+
+
+.navbar {
+  margin-bottom: 20px;
+  background-color: #0858a9c5;
+}
+.nav-link{
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* for footer section  */
+
+.footer {
+  background-color: #0858a9c5;
+  color: #fff;
+  padding: 30px 0;
+}
+
+.footer h5 {
+  margin-bottom: 20px;
+}
+
+.footer ul {
+  list-style-type: none;
+  padding-left: 0;
+  color:rgb(255, 255, 255);
+}
+
+.footer-links li {
+  margin-bottom: 10px;
+
+}
+.footer-links li a {
+  color: #ffffff; 
+}
+
+
+
+.footer-info li {
+  margin-bottom: 5px;
+}
+.footer-info li a {
+  color: white;
+}
+
+.social-icons a {
+  color: #fff;
+  margin-right: 10px;
+}
+
+.sub-footer {
+  background-color: #004080;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.sub-footer p {
+  margin: 0;
+}
+
+.text-right {
+  text-align: right;
+}
+
+
+
